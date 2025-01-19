@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Olá! Sou Estudante de Ciência da Computação na Universidade Federal do Piauí (UFPI) e pesquisador do Laboratório de Processamento de Imagens e Inteligência Computacional (LIMCI). Atualmente, sou bolsista de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI), onde foco meus estudos e projetos em inteligência artificial, visão computacional e desenvolvimento mobile.
+Sou estudante do 6° período de Ciência da Computação na UFPI e bolsista de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI) no LIMCI (Laboratory of Image Processing and Computational Intelligence), com foco em inteligência artificial, visão computacional e desenvolvimento mobile. Atuei como Coordenador Geral do Centro Acadêmico do curso durante a gestão "Grace Hopper", organizando atividades para fortalecer a comunidade acadêmica.
 
 <!--
 **CaioBurton/CaioBurton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
