@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-Sou estudante de Ciência da Computação na UFPI e bolsista de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI) no LIMCI (Laboratory of Image Processing and Computational Intelligence) onde estudo as áreas de inteligência artificial, visão computacional e desenvolvimento mobile. Atuei como Coordenador Geral do Centro Acadêmico do curso durante a gestão "Grace Hopper", organizando atividades para fortalecer a comunidade acadêmica.
+Pesquisador e desenvolvedor com experiência em Inteligência Artificial, Visão Computacional e desenvolvimento mobile, com atuação destacada em projetos aplicados à saúde. No LIMCI (UFPI), desenvolvi soluções de deep learning para identificação de sinais de Parkinson em imagens faciais, resultando em publicações, patente e premiação nacional em Iniciação Tecnológica.
+
+Tenho experiência profissional como estagiário de TI no Tribunal de Justiça do Piauí e vivência acadêmica como monitor nas disciplinas de Compiladores e Programação Estruturada. Também contribuí para ações de inclusão, acompanhando um estudante com TEA no contexto universitário.
+
+Atualmente faço parte do Centro Acadêmico de Ciência da Computação, atuando em iniciativas voluntárias que fortalecem o ambiente estudantil e promovem engajamento acadêmico. Me interesso por machine learning, sistemas inteligentes, acessibilidade tecnológica e aplicações de IA com impacto social.
 
 <!--
 **CaioBurton/CaioBurton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
