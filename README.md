@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Pesquisador e desenvolvedor com experiência em Inteligência Artificial, Visão Computacional e desenvolvimento mobile, com atuação destacada em projetos aplicados à saúde. No LIMCI (UFPI), desenvolvi soluções de deep learning para identificação de sinais de Parkinson em imagens faciais, resultando em publicações, patente e premiação nacional em Iniciação Tecnológica.
+Pesquisador e desenvolvedor com experiência em Inteligência Artificial, Visão Computacional e desenvolvimento mobile, com atuação destacada em projetos aplicados à saúde. No LIMCI (UFPI), desenvolvi soluções de deep learning para identificação de sinais de Parkinson em imagens faciais, resultando em publicações, registro de software e premiação nacional em Iniciação Tecnológica.
 
 Tenho experiência profissional como estagiário de TI no Tribunal de Justiça do Piauí e vivência acadêmica como monitor nas disciplinas de Compiladores e Programação Estruturada. Também contribuí para ações de inclusão, acompanhando um estudante com TEA no contexto universitário.
 
